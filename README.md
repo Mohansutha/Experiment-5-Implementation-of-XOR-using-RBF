@@ -33,13 +33,13 @@ The RBF of hidden neuron as gaussian function
 
 # ALGORIHM:
 ## Step 1:
-1 Initialize the input patterns for XOR Gate
+1. Initialize the input patterns for XOR Gate
 ## Step 2:
-2 Initialize the desired output of the XOR Gate
+2. Initialize the desired output of the XOR Gate
 ## Step 3:
-3 Initialize the weights for the 2 layer RPF with 2 Hidden neuron and 1 output neuron
+3. Initialize the weights for the 2 layer RPF with 2 Hidden neuron and 1 output neuron
 ## Step 4:
-4 Test for the XOR patterns.
+4. Test for the XOR patterns.
 PROGRAM:
 
 ## PROGRAM:
